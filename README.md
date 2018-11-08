@@ -2,10 +2,11 @@
 
 HOW TO SET UP:
     In order to use ythosting, you must install the following.
-      - moviepy 
+    
+      moviepy 
         instructions @ https://zulko.github.io/moviepy/install.html
 
-      - opencv 
+      opencv 
         I used the following pip command
             pip install opencv-python
       
